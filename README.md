@@ -96,21 +96,3 @@ npm run dev
 All endpoints are rate-limited (5 requests per minute per IP).
 
 ---
-
-## Screenshots
-_Add screenshots of your app here!_
-
----
-
-## Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## License
-[ISC](LICENSE)
-
----
-
-## Author
-[Your Name](https://github.com/yourusername)
