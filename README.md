@@ -96,3 +96,10 @@ npm run dev
 All endpoints are rate-limited (5 requests per minute per IP).
 
 ---
+
+## Screenshots
+
+### Dashboard
+![Dashboard](ss/dashboard.png)
+
+---
